@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aubertmarjorie2@gmail.com
+	name = marjorie aubert
